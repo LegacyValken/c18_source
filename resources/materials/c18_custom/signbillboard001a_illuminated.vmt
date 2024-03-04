@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "c18_custom/signbillboard001a_illuminated"
+	"$surfaceprop" "metal"
+	"%keywords" "c17downtown"
+	"$alphatest" 1
+	"$nomip" 1
+}
