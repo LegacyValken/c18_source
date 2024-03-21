@@ -1,7 +1,8 @@
 Credits:
 
-V1
+V1 (January 2008)
 - HumiliatioN
+> After V1, HumiliatioN went on to make rp_tb_city45 - (July 2007) (Alias V1a)
 
 V2
 - Dr. Alto Clef
