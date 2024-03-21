@@ -24,6 +24,7 @@ Credits:
 - Hanson the Bear
 - Starship Trooper
 - Legacy the Duck
+> V4x Starship Trooper poked in and out of V4 development cycle to help here and there. Some loose vmf's were transfered for deeper inspection, not sure of the context for these just that I have them (ST).
 
 # v5
 - Legacy the Duck
