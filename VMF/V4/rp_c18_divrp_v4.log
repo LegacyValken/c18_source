@@ -1,0 +1,144 @@
+materialPath: D:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading E:\Downloads\Firefox Downloads\rp_c18_divrp_v4.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...WARNING: areaportal entity 3289 (brush 2385601) touches > 2 areas
+WARNING: areaportal entity 3029 (brush 2074828) touches > 2 areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2832 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (6)
+writing E:\Downloads\Firefox Downloads\rp_c18_divrp_v4.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_borealis01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_borealis01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (3) (3078168 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 20827 texinfos to 11147
+Reduced 1670 texdatas to 1285 (86336 bytes to 66425)
+Writing E:\Downloads\Firefox Downloads\rp_c18_divrp_v4.bsp
+25 seconds elapsed
+
+
+
+8 threads
+reading e:\downloads\firefox downloads\rp_c18_divrp_v4.bsp
+reading e:\downloads\firefox downloads\rp_c18_divrp_v4.prt
+2773 portalclusters
+5581 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2507 visible clusters (0.52%)
+Total clusters visible: 480430
+Average clusters visible: 173
+Building PAS...
+Average clusters audible: 574
+visdatasize:536782  compressed from 1952192
+writing e:\downloads\firefox downloads\rp_c18_divrp_v4.bsp
+27 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[44 texlights parsed from 'lights.rad']
+
+Loading e:\downloads\firefox downloads\rp_c18_divrp_v4.bsp
+PREP OK
+25642 faces
+2 degenerate faces
+3056009 square feet [440065280.00 square inches]
+61 Displacements
+495 Square Feet [71301.47 Square Inches]
+25640 patches before subdivision
+345412 patches after subdivision
+851 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 40350348, max 1454
+transfer lists: 307.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(452544, 506160, 380901)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(81808, 76843, 46416)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(18809, 15187, 7655)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(5040, 3582, 1505)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1560, 1025, 362)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(545, 347, 103)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(212, 136, 34)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(90, 58, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(41, 27, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(19, 13, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(9, 6, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(5, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.1789 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 13 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 179/1024         8592/49152    (17.5%) 
+brushes               8911/16384      106932/196608   (54.4%) 
+brushsides           63348/65536      506784/524288   (96.7%) VERY FULL!
+planes               25808/65536      516160/1310720  (39.4%) 
+vertexes             44863/65536      538356/786432   (68.5%) 
+nodes                 8252/65536      264064/2097152  (12.6%) 
+texinfos             11147/12288      802584/884736   (90.7%) VERY FULL!
+texdata               1285/2048        41120/65536    (62.7%) 
+dispinfos               61/0           10736/0        ( 0.0%) 
+disp_verts            1525/0           30500/0        ( 0.0%) 
+disp_tris             1952/0            3904/0        ( 0.0%) 
+disp_lmsamples        2856/0            2856/0        ( 0.0%) 
+faces                25642/65536     1435952/3670016  (39.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            19472/65536     1090432/3670016  (29.7%) 
+leaves                8432/65536      269824/2097152  (12.9%) 
+leaffaces            31050/65536       62100/131072   (47.4%) 
+leafbrushes          16836/65536       33672/131072   (25.7%) 
+areas                   58/1024          464/8192     ( 5.7%) 
+surfedges           203633/512000     814532/2048000  (39.8%) 
+edges               131704/256000     526816/1024000  (51.4%) 
+LDR worldlights        851/8192        74888/720896   (10.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips           3259/32768       32590/327680   ( 9.9%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         61854/65536      123708/131072   (94.4%) VERY FULL!
+cubemapsamples         213/1024         3408/16384    (20.8%) 
+overlays                91/512         32032/180224   (17.8%) 
+LDR lightdata         [variable]    19164876/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      536782/16777216 ( 3.2%) 
+entdata               [variable]      459686/393216   (116.9%) VERY FULL!
+LDR ambient table     8432/65536       33728/262144   (12.9%) 
+HDR ambient table     8432/65536       33728/262144   (12.9%) 
+LDR leaf ambient     28585/65536      800380/1835008  (43.6%) 
+HDR leaf ambient      8432/65536      236096/1835008  (12.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/78658    ( 0.0%) 
+pakfile               [variable]    19032627/0        ( 0.0%) 
+physics               [variable]     3078168/4194304  (73.4%) 
+physics terrain       [variable]       10767/1048576  ( 1.0%) 
+
+Level flags = 0
+
+Total triangle count: 74790
+Writing e:\downloads\firefox downloads\rp_c18_divrp_v4.bsp
+3 minutes, 12 seconds elapsed
