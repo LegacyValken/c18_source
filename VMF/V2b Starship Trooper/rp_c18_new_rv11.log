@@ -1,0 +1,1886 @@
+
+
+
+materialPath: D:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Hunter\Documents\Gmod maps\rev11\rp_c18_new_rv11.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in d:\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/rp_c18_new_rv11/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1298 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing C:\Users\Hunter\Documents\Gmod maps\rev11\rp_c18_new_rv11.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/grimmnight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/grimmnight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (2070372 bytes)
+Static prop models/props_lab/lab_flourescentlight002b.mdl outside the map (-1916.00, 128.00, 776.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 11595 texinfos to 7721
+Reduced 971 texdatas to 819 (49251 bytes to 42551)
+Writing C:\Users\Hunter\Documents\Gmod maps\rev11\rp_c18_new_rv11.bsp
+10 seconds elapsed
+
+
+
+8 threads
+reading c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+reading c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.prt
+1403 portalclusters
+2838 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 769 visible clusters (0.70%)
+Total clusters visible: 110606
+Average clusters visible: 78
+Building PAS...
+Average clusters audible: 261
+visdatasize:155173  compressed from 493856
+writing c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+2 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Hunter\Documents\Gmod maps\rev11\rp_c18_new_rv11.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in d:\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/rp_c18_new_rv11/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1298 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing C:\Users\Hunter\Documents\Gmod maps\rev11\rp_c18_new_rv11.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/grimmnight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/grimmnight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (2070372 bytes)
+Static prop models/props_lab/lab_flourescentlight002b.mdl outside the map (-1916.00, 128.00, 776.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 11599 texinfos to 7721
+Reduced 970 texdatas to 819 (49196 bytes to 42551)
+Writing C:\Users\Hunter\Documents\Gmod maps\rev11\rp_c18_new_rv11.bsp
+10 seconds elapsed
+
+
+
+8 threads
+reading c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+reading c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.prt
+1403 portalclusters
+2838 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 768 visible clusters (0.69%)
+Total clusters visible: 110605
+Average clusters visible: 78
+Building PAS...
+Average clusters audible: 261
+visdatasize:155173  compressed from 493856
+writing c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+16943 faces
+10 degenerate faces
+2076750 square feet [299052096.00 square inches]
+61 Displacements
+429 Square Feet [61881.54 Square Inches]
+16933 patches before subdivision
+193547 patches after subdivision
+742 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 19687236, max 956
+transfer lists: 150.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(307292, 357483, 274319)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(49078, 47024, 28489)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(10040, 7841, 3808)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2358, 1488, 583)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(617, 313, 100)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(175, 70, 18)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(54, 16, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(18, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(6, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0731 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+62 of 107 (57% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 125/1024         6000/49152    (12.2%) 
+brushes               5900/8192        70800/98304    (72.0%) 
+brushsides           42516/65536      340128/524288   (64.9%) 
+planes               20456/65536      409120/1310720  (31.2%) 
+vertexes             28634/65536      343608/786432   (43.7%) 
+nodes                 4850/65536      155200/2097152  ( 7.4%) 
+texinfos              7721/12288      555912/884736   (62.8%) 
+texdata                819/2048        26208/65536    (40.0%) 
+dispinfos               61/0           10736/0        ( 0.0%) 
+disp_verts            1525/0           30500/0        ( 0.0%) 
+disp_tris             1952/0            3904/0        ( 0.0%) 
+disp_lmsamples        2640/0            2640/0        ( 0.0%) 
+faces                16943/65536      948808/3670016  (25.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            13826/65536      774256/3670016  (21.1%) 
+leaves                4976/65536      159232/2097152  ( 7.6%) 
+leaffaces            19838/65536       39676/131072   (30.3%) 
+leafbrushes           9973/65536       19946/131072   (15.2%) 
+areas                   23/256           184/2048     ( 9.0%) 
+surfedges           139008/512000     556032/2048000  (27.1%) 
+edges                88943/256000     355772/1024000  (34.7%) 
+LDR worldlights        742/8192        65296/720896   ( 9.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           2157/32768       21570/327680   ( 6.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         40563/65536       81126/131072   (61.9%) 
+cubemapsamples         138/1024         2208/16384    (13.5%) 
+overlays                11/512          3872/180224   ( 2.1%) 
+LDR lightdata         [variable]     9692224/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      155173/16777216 ( 0.9%) 
+entdata               [variable]      365112/393216   (92.9%) VERY FULL!
+LDR ambient table     4976/65536       19904/262144   ( 7.6%) 
+HDR ambient table     4976/65536       19904/262144   ( 7.6%) 
+LDR leaf ambient     17006/65536      476168/1835008  (25.9%) 
+HDR leaf ambient      4976/65536      139328/1835008  ( 7.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/63592    ( 0.0%) 
+pakfile               [variable]    11644408/0        ( 0.0%) 
+physics               [variable]     2070372/4194304  (49.4%) 
+physics terrain       [variable]       10753/1048576  ( 1.0%) 
+
+Level flags = 0
+
+Total triangle count: 50020
+Writing c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+1 minute, 49 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Hunter\Documents\Gmod maps\rev11\rp_c18_new_rv11.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in d:\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/rp_c18_new_rv11/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 1298 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing C:\Users\Hunter\Documents\Gmod maps\rev11\rp_c18_new_rv11.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/grimmnight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/grimmnight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (2070372 bytes)
+Static prop models/props_lab/lab_flourescentlight002b.mdl outside the map (-1916.00, 128.00, 776.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 11599 texinfos to 7721
+Reduced 970 texdatas to 819 (49196 bytes to 42551)
+Writing C:\Users\Hunter\Documents\Gmod maps\rev11\rp_c18_new_rv11.bsp
+10 seconds elapsed
+
+
+
+8 threads
+reading c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+reading c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.prt
+1403 portalclusters
+2838 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 773 visible clusters (0.70%)
+Total clusters visible: 110610
+Average clusters visible: 78
+Building PAS...
+Average clusters audible: 261
+visdatasize:155173  compressed from 493856
+writing c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+16943 faces
+10 degenerate faces
+2076750 square feet [299052096.00 square inches]
+61 Displacements
+429 Square Feet [61881.54 Square Inches]
+16933 patches before subdivision
+193547 patches after subdivision
+741 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 19687236, max 956
+transfer lists: 150.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(307043, 356932, 273783)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(49048, 46952, 28430)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(10036, 7831, 3801)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2358, 1486, 582)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(617, 313, 100)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(175, 70, 18)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(54, 16, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(18, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(6, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0700 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+62 of 107 (57% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 125/1024         6000/49152    (12.2%) 
+brushes               5900/8192        70800/98304    (72.0%) 
+brushsides           42516/65536      340128/524288   (64.9%) 
+planes               20456/65536      409120/1310720  (31.2%) 
+vertexes             28634/65536      343608/786432   (43.7%) 
+nodes                 4850/65536      155200/2097152  ( 7.4%) 
+texinfos              7721/12288      555912/884736   (62.8%) 
+texdata                819/2048        26208/65536    (40.0%) 
+dispinfos               61/0           10736/0        ( 0.0%) 
+disp_verts            1525/0           30500/0        ( 0.0%) 
+disp_tris             1952/0            3904/0        ( 0.0%) 
+disp_lmsamples        2640/0            2640/0        ( 0.0%) 
+faces                16943/65536      948808/3670016  (25.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            13826/65536      774256/3670016  (21.1%) 
+leaves                4976/65536      159232/2097152  ( 7.6%) 
+leaffaces            19838/65536       39676/131072   (30.3%) 
+leafbrushes           9973/65536       19946/131072   (15.2%) 
+areas                   23/256           184/2048     ( 9.0%) 
+surfedges           139008/512000     556032/2048000  (27.1%) 
+edges                88943/256000     355772/1024000  (34.7%) 
+LDR worldlights        741/8192        65208/720896   ( 9.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           2157/32768       21570/327680   ( 6.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         40563/65536       81126/131072   (61.9%) 
+cubemapsamples         138/1024         2208/16384    (13.5%) 
+overlays                11/512          3872/180224   ( 2.1%) 
+LDR lightdata         [variable]     9692224/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      155173/16777216 ( 0.9%) 
+entdata               [variable]      364503/393216   (92.7%) VERY FULL!
+LDR ambient table     4976/65536       19904/262144   ( 7.6%) 
+HDR ambient table     4976/65536       19904/262144   ( 7.6%) 
+LDR leaf ambient     17006/65536      476168/1835008  (25.9%) 
+HDR leaf ambient      4976/65536      139328/1835008  ( 7.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/63526    ( 0.0%) 
+pakfile               [variable]    11644408/0        ( 0.0%) 
+physics               [variable]     2070372/4194304  (49.4%) 
+physics terrain       [variable]       10753/1048576  ( 1.0%) 
+
+Level flags = 0
+
+Total triangle count: 50020
+Writing c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+1 minute, 49 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Hunter\Documents\Gmod maps\rev11\rp_c18_new_rv11.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in d:\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/rp_c18_new_rv11/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 1298 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing C:\Users\Hunter\Documents\Gmod maps\rev11\rp_c18_new_rv11.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/grimmnight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/grimmnight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (2070372 bytes)
+Static prop models/props_lab/lab_flourescentlight002b.mdl outside the map (-1916.00, 128.00, 776.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 11599 texinfos to 7721
+Reduced 970 texdatas to 819 (49196 bytes to 42551)
+Writing C:\Users\Hunter\Documents\Gmod maps\rev11\rp_c18_new_rv11.bsp
+10 seconds elapsed
+
+
+
+8 threads
+reading c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+reading c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.prt
+1403 portalclusters
+2838 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 776 visible clusters (0.70%)
+Total clusters visible: 110613
+Average clusters visible: 78
+Building PAS...
+Average clusters audible: 261
+visdatasize:155173  compressed from 493856
+writing c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+16943 faces
+10 degenerate faces
+2076750 square feet [299052096.00 square inches]
+61 Displacements
+429 Square Feet [61881.54 Square Inches]
+16933 patches before subdivision
+193547 patches after subdivision
+741 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 19687236, max 956
+transfer lists: 150.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(306953, 356680, 273485)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(49040, 46928, 28405)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(10035, 7828, 3798)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2358, 1486, 582)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(617, 313, 100)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(175, 70, 18)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(54, 16, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(18, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(6, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0760 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+62 of 107 (57% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 125/1024         6000/49152    (12.2%) 
+brushes               5900/8192        70800/98304    (72.0%) 
+brushsides           42516/65536      340128/524288   (64.9%) 
+planes               20456/65536      409120/1310720  (31.2%) 
+vertexes             28634/65536      343608/786432   (43.7%) 
+nodes                 4850/65536      155200/2097152  ( 7.4%) 
+texinfos              7721/12288      555912/884736   (62.8%) 
+texdata                819/2048        26208/65536    (40.0%) 
+dispinfos               61/0           10736/0        ( 0.0%) 
+disp_verts            1525/0           30500/0        ( 0.0%) 
+disp_tris             1952/0            3904/0        ( 0.0%) 
+disp_lmsamples        2640/0            2640/0        ( 0.0%) 
+faces                16943/65536      948808/3670016  (25.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            13826/65536      774256/3670016  (21.1%) 
+leaves                4976/65536      159232/2097152  ( 7.6%) 
+leaffaces            19838/65536       39676/131072   (30.3%) 
+leafbrushes           9973/65536       19946/131072   (15.2%) 
+areas                   23/256           184/2048     ( 9.0%) 
+surfedges           139008/512000     556032/2048000  (27.1%) 
+edges                88943/256000     355772/1024000  (34.7%) 
+LDR worldlights        741/8192        65208/720896   ( 9.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           2157/32768       21570/327680   ( 6.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         40563/65536       81126/131072   (61.9%) 
+cubemapsamples         138/1024         2208/16384    (13.5%) 
+overlays                11/512          3872/180224   ( 2.1%) 
+LDR lightdata         [variable]     9692224/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      155173/16777216 ( 0.9%) 
+entdata               [variable]      364503/393216   (92.7%) VERY FULL!
+LDR ambient table     4976/65536       19904/262144   ( 7.6%) 
+HDR ambient table     4976/65536       19904/262144   ( 7.6%) 
+LDR leaf ambient     16997/65536      475916/1835008  (25.9%) 
+HDR leaf ambient      4976/65536      139328/1835008  ( 7.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/63526    ( 0.0%) 
+pakfile               [variable]    11644408/0        ( 0.0%) 
+physics               [variable]     2070372/4194304  (49.4%) 
+physics terrain       [variable]       10753/1048576  ( 1.0%) 
+
+Level flags = 0
+
+Total triangle count: 50020
+Writing c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+1 minute, 52 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Hunter\Documents\Gmod maps\rev11\rp_c18_new_rv11.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in d:\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/rp_c18_new_rv11/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 1298 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing C:\Users\Hunter\Documents\Gmod maps\rev11\rp_c18_new_rv11.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/grimmnight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/grimmnight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (2070372 bytes)
+Static prop models/props_lab/lab_flourescentlight002b.mdl outside the map (-1916.00, 128.00, 776.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 11599 texinfos to 7721
+Reduced 970 texdatas to 819 (49196 bytes to 42551)
+Writing C:\Users\Hunter\Documents\Gmod maps\rev11\rp_c18_new_rv11.bsp
+10 seconds elapsed
+
+
+
+8 threads
+reading c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+reading c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.prt
+1403 portalclusters
+2838 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 772 visible clusters (0.70%)
+Total clusters visible: 110607
+Average clusters visible: 78
+Building PAS...
+Average clusters audible: 261
+visdatasize:155173  compressed from 493856
+writing c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+16943 faces
+10 degenerate faces
+2076750 square feet [299052096.00 square inches]
+61 Displacements
+429 Square Feet [61881.54 Square Inches]
+16933 patches before subdivision
+193547 patches after subdivision
+741 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 19687236, max 956
+transfer lists: 150.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(306923, 356609, 273412)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(49038, 46922, 28399)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(10035, 7827, 3798)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2357, 1486, 582)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(617, 313, 100)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(175, 70, 18)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(54, 16, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(18, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(6, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0722 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+62 of 107 (57% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 125/1024         6000/49152    (12.2%) 
+brushes               5900/8192        70800/98304    (72.0%) 
+brushsides           42516/65536      340128/524288   (64.9%) 
+planes               20456/65536      409120/1310720  (31.2%) 
+vertexes             28634/65536      343608/786432   (43.7%) 
+nodes                 4850/65536      155200/2097152  ( 7.4%) 
+texinfos              7721/12288      555912/884736   (62.8%) 
+texdata                819/2048        26208/65536    (40.0%) 
+dispinfos               61/0           10736/0        ( 0.0%) 
+disp_verts            1525/0           30500/0        ( 0.0%) 
+disp_tris             1952/0            3904/0        ( 0.0%) 
+disp_lmsamples        2640/0            2640/0        ( 0.0%) 
+faces                16943/65536      948808/3670016  (25.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            13826/65536      774256/3670016  (21.1%) 
+leaves                4976/65536      159232/2097152  ( 7.6%) 
+leaffaces            19838/65536       39676/131072   (30.3%) 
+leafbrushes           9973/65536       19946/131072   (15.2%) 
+areas                   23/256           184/2048     ( 9.0%) 
+surfedges           139008/512000     556032/2048000  (27.1%) 
+edges                88943/256000     355772/1024000  (34.7%) 
+LDR worldlights        741/8192        65208/720896   ( 9.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           2157/32768       21570/327680   ( 6.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         40563/65536       81126/131072   (61.9%) 
+cubemapsamples         138/1024         2208/16384    (13.5%) 
+overlays                11/512          3872/180224   ( 2.1%) 
+LDR lightdata         [variable]     9692224/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      155173/16777216 ( 0.9%) 
+entdata               [variable]      364503/393216   (92.7%) VERY FULL!
+LDR ambient table     4976/65536       19904/262144   ( 7.6%) 
+HDR ambient table     4976/65536       19904/262144   ( 7.6%) 
+LDR leaf ambient     17007/65536      476196/1835008  (26.0%) 
+HDR leaf ambient      4976/65536      139328/1835008  ( 7.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/63526    ( 0.0%) 
+pakfile               [variable]    11644408/0        ( 0.0%) 
+physics               [variable]     2070372/4194304  (49.4%) 
+physics terrain       [variable]       10753/1048576  ( 1.0%) 
+
+Level flags = 0
+
+Total triangle count: 50020
+Writing c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+1 minute, 48 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Hunter\Documents\Gmod maps\rev11\rp_c18_new_rv11.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in d:\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/rp_c18_new_rv11/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 1286 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing C:\Users\Hunter\Documents\Gmod maps\rev11\rp_c18_new_rv11.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/grimmnight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/grimmnight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (2063156 bytes)
+Static prop models/props_lab/lab_flourescentlight002b.mdl outside the map (-1916.00, 128.00, 776.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 11582 texinfos to 7701
+Reduced 965 texdatas to 816 (48962 bytes to 42390)
+Writing C:\Users\Hunter\Documents\Gmod maps\rev11\rp_c18_new_rv11.bsp
+10 seconds elapsed
+
+
+
+8 threads
+reading c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+reading c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.prt
+1403 portalclusters
+2837 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 763 visible clusters (0.69%)
+Total clusters visible: 110574
+Average clusters visible: 78
+Building PAS...
+Average clusters audible: 261
+visdatasize:155126  compressed from 493856
+writing c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+16887 faces
+10 degenerate faces
+2077135 square feet [299107456.00 square inches]
+61 Displacements
+429 Square Feet [61881.54 Square Inches]
+16877 patches before subdivision
+193553 patches after subdivision
+745 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 19681305, max 956
+transfer lists: 150.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(307990, 357316, 273779)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(49099, 46946, 28408)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(10024, 7817, 3794)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2351, 1481, 580)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(615, 312, 100)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(174, 70, 18)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(53, 16, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(18, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(6, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0698 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+62 of 107 (57% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 125/1024         6000/49152    (12.2%) 
+brushes               5880/8192        70560/98304    (71.8%) 
+brushsides           42391/65536      339128/524288   (64.7%) 
+planes               20442/65536      408840/1310720  (31.2%) 
+vertexes             28526/65536      342312/786432   (43.5%) 
+nodes                 4846/65536      155072/2097152  ( 7.4%) 
+texinfos              7701/12288      554472/884736   (62.7%) 
+texdata                816/2048        26112/65536    (39.8%) 
+dispinfos               61/0           10736/0        ( 0.0%) 
+disp_verts            1525/0           30500/0        ( 0.0%) 
+disp_tris             1952/0            3904/0        ( 0.0%) 
+disp_lmsamples        2640/0            2640/0        ( 0.0%) 
+faces                16887/65536      945672/3670016  (25.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            13772/65536      771232/3670016  (21.0%) 
+leaves                4972/65536      159104/2097152  ( 7.6%) 
+leaffaces            19778/65536       39556/131072   (30.2%) 
+leafbrushes           9946/65536       19892/131072   (15.2%) 
+areas                   23/256           184/2048     ( 9.0%) 
+surfedges           138514/512000     554056/2048000  (27.1%) 
+edges                88593/256000     354372/1024000  (34.6%) 
+LDR worldlights        745/8192        65560/720896   ( 9.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           2151/32768       21510/327680   ( 6.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         40437/65536       80874/131072   (61.7%) 
+cubemapsamples         138/1024         2208/16384    (13.5%) 
+overlays                11/512          3872/180224   ( 2.1%) 
+LDR lightdata         [variable]     9685008/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      155126/16777216 ( 0.9%) 
+entdata               [variable]      365560/393216   (93.0%) VERY FULL!
+LDR ambient table     4972/65536       19888/262144   ( 7.6%) 
+HDR ambient table     4972/65536       19888/262144   ( 7.6%) 
+LDR leaf ambient     16984/65536      475552/1835008  (25.9%) 
+HDR leaf ambient      4972/65536      139216/1835008  ( 7.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/63722    ( 0.0%) 
+pakfile               [variable]    11643028/0        ( 0.0%) 
+physics               [variable]     2063156/4194304  (49.2%) 
+physics terrain       [variable]       10753/1048576  ( 1.0%) 
+
+Level flags = 0
+
+Total triangle count: 49858
+Writing c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+1 minute, 49 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Hunter\Documents\Gmod maps\rev11\rp_c18_new_rv11.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in d:\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/rp_c18_new_rv11/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 1286 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing C:\Users\Hunter\Documents\Gmod maps\rev11\rp_c18_new_rv11.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/grimmnight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/grimmnight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (2063156 bytes)
+Static prop models/props_lab/lab_flourescentlight002b.mdl outside the map (-1916.00, 128.00, 776.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 11582 texinfos to 7701
+Reduced 965 texdatas to 816 (48962 bytes to 42390)
+Writing C:\Users\Hunter\Documents\Gmod maps\rev11\rp_c18_new_rv11.bsp
+10 seconds elapsed
+
+
+
+8 threads
+reading c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+reading c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.prt
+1403 portalclusters
+2837 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 771 visible clusters (0.70%)
+Total clusters visible: 110582
+Average clusters visible: 78
+Building PAS...
+Average clusters audible: 261
+visdatasize:155126  compressed from 493856
+writing c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+16887 faces
+10 degenerate faces
+2077135 square feet [299107456.00 square inches]
+61 Displacements
+429 Square Feet [61881.54 Square Inches]
+16877 patches before subdivision
+193553 patches after subdivision
+745 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 19681361, max 956
+transfer lists: 150.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(307931, 357310, 273776)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(49093, 46946, 28408)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(10023, 7817, 3794)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2351, 1481, 580)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(615, 312, 100)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(174, 70, 18)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(53, 16, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(18, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(6, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0702 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+62 of 107 (57% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 125/1024         6000/49152    (12.2%) 
+brushes               5880/8192        70560/98304    (71.8%) 
+brushsides           42391/65536      339128/524288   (64.7%) 
+planes               20442/65536      408840/1310720  (31.2%) 
+vertexes             28526/65536      342312/786432   (43.5%) 
+nodes                 4846/65536      155072/2097152  ( 7.4%) 
+texinfos              7701/12288      554472/884736   (62.7%) 
+texdata                816/2048        26112/65536    (39.8%) 
+dispinfos               61/0           10736/0        ( 0.0%) 
+disp_verts            1525/0           30500/0        ( 0.0%) 
+disp_tris             1952/0            3904/0        ( 0.0%) 
+disp_lmsamples        2640/0            2640/0        ( 0.0%) 
+faces                16887/65536      945672/3670016  (25.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            13772/65536      771232/3670016  (21.0%) 
+leaves                4972/65536      159104/2097152  ( 7.6%) 
+leaffaces            19778/65536       39556/131072   (30.2%) 
+leafbrushes           9946/65536       19892/131072   (15.2%) 
+areas                   23/256           184/2048     ( 9.0%) 
+surfedges           138514/512000     554056/2048000  (27.1%) 
+edges                88593/256000     354372/1024000  (34.6%) 
+LDR worldlights        745/8192        65560/720896   ( 9.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           2151/32768       21510/327680   ( 6.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         40437/65536       80874/131072   (61.7%) 
+cubemapsamples         138/1024         2208/16384    (13.5%) 
+overlays                11/512          3872/180224   ( 2.1%) 
+LDR lightdata         [variable]     9685008/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      155126/16777216 ( 0.9%) 
+entdata               [variable]      365693/393216   (93.0%) VERY FULL!
+LDR ambient table     4972/65536       19888/262144   ( 7.6%) 
+HDR ambient table     4972/65536       19888/262144   ( 7.6%) 
+LDR leaf ambient     16979/65536      475412/1835008  (25.9%) 
+HDR leaf ambient      4972/65536      139216/1835008  ( 7.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/63722    ( 0.0%) 
+pakfile               [variable]    11643028/0        ( 0.0%) 
+physics               [variable]     2063156/4194304  (49.2%) 
+physics terrain       [variable]       10753/1048576  ( 1.0%) 
+
+Level flags = 0
+
+Total triangle count: 49858
+Writing c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+1 minute, 51 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Hunter\Documents\Gmod maps\rev11\rp_c18_new_rv11.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in d:\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 1282 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing C:\Users\Hunter\Documents\Gmod maps\rev11\rp_c18_new_rv11.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/grimmnight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/grimmnight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (2054481 bytes)
+Static prop models/props_lab/lab_flourescentlight002b.mdl outside the map (-1916.00, 128.00, 776.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 11543 texinfos to 7653
+Reduced 959 texdatas to 811 (48697 bytes to 42146)
+Writing C:\Users\Hunter\Documents\Gmod maps\rev11\rp_c18_new_rv11.bsp
+10 seconds elapsed
+
+
+
+8 threads
+reading c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+reading c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.prt
+1381 portalclusters
+2809 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 731 visible clusters (0.67%)
+Total clusters visible: 109100
+Average clusters visible: 79
+Building PAS...
+Average clusters audible: 259
+visdatasize:152271  compressed from 486112
+writing c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+16756 faces
+10 degenerate faces
+2072774 square feet [298479552.00 square inches]
+61 Displacements
+429 Square Feet [61881.54 Square Inches]
+16746 patches before subdivision
+192872 patches after subdivision
+743 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 19608081, max 955
+transfer lists: 149.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(305990, 356103, 273309)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(48355, 46748, 28362)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(9710, 7787, 3790)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2211, 1478, 580)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(550, 312, 100)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(144, 70, 18)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(39, 16, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(11, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0728 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+62 of 107 (57% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 124/1024         5952/49152    (12.1%) 
+brushes               5841/8192        70092/98304    (71.3%) 
+brushsides           42168/65536      337344/524288   (64.3%) 
+planes               20574/65536      411480/1310720  (31.4%) 
+vertexes             28383/65536      340596/786432   (43.3%) 
+nodes                 4897/65536      156704/2097152  ( 7.5%) 
+texinfos              7653/12288      551016/884736   (62.3%) 
+texdata                811/2048        25952/65536    (39.6%) 
+dispinfos               61/0           10736/0        ( 0.0%) 
+disp_verts            1525/0           30500/0        ( 0.0%) 
+disp_tris             1952/0            3904/0        ( 0.0%) 
+disp_lmsamples        2640/0            2640/0        ( 0.0%) 
+faces                16756/65536      938336/3670016  (25.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            13670/65536      765520/3670016  (20.9%) 
+leaves                5022/65536      160704/2097152  ( 7.7%) 
+leaffaces            19622/65536       39244/131072   (29.9%) 
+leafbrushes           9867/65536       19734/131072   (15.1%) 
+areas                   22/256           176/2048     ( 8.6%) 
+surfedges           137446/512000     549784/2048000  (26.8%) 
+edges                87939/256000     351756/1024000  (34.4%) 
+LDR worldlights        743/8192        65384/720896   ( 9.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           2129/32768       21290/327680   ( 6.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         40032/65536       80064/131072   (61.1%) 
+cubemapsamples         138/1024         2208/16384    (13.5%) 
+overlays                11/512          3872/180224   ( 2.1%) 
+LDR lightdata         [variable]     9660900/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      152271/16777216 ( 0.9%) 
+entdata               [variable]      364698/393216   (92.7%) VERY FULL!
+LDR ambient table     5022/65536       20088/262144   ( 7.7%) 
+HDR ambient table     5022/65536       20088/262144   ( 7.7%) 
+LDR leaf ambient     16856/65536      471968/1835008  (25.7%) 
+HDR leaf ambient      5022/65536      140616/1835008  ( 7.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/63218    ( 0.0%) 
+pakfile               [variable]    11641631/0        ( 0.0%) 
+physics               [variable]     2054481/4194304  (49.0%) 
+physics terrain       [variable]       10753/1048576  ( 1.0%) 
+
+Level flags = 0
+
+Total triangle count: 49441
+Writing c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+1 minute, 50 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Hunter\Documents\Gmod maps\rev11\rp_c18_new_rv11.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in d:\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1282 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing C:\Users\Hunter\Documents\Gmod maps\rev11\rp_c18_new_rv11.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/grimmnight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/grimmnight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (2054481 bytes)
+Static prop models/props_lab/lab_flourescentlight002b.mdl outside the map (-1916.00, 128.00, 776.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 11543 texinfos to 7653
+Reduced 959 texdatas to 811 (48697 bytes to 42146)
+Writing C:\Users\Hunter\Documents\Gmod maps\rev11\rp_c18_new_rv11.bsp
+11 seconds elapsed
+
+
+
+8 threads
+reading c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+reading c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.prt
+1381 portalclusters
+2809 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 731 visible clusters (0.67%)
+Total clusters visible: 109100
+Average clusters visible: 79
+Building PAS...
+Average clusters audible: 259
+visdatasize:152271  compressed from 486112
+writing c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+16756 faces
+10 degenerate faces
+2072774 square feet [298479552.00 square inches]
+61 Displacements
+429 Square Feet [61881.54 Square Inches]
+16746 patches before subdivision
+192872 patches after subdivision
+743 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 19608081, max 955
+transfer lists: 149.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(299818, 349036, 268092)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(47399, 45798, 27786)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(9520, 7623, 3706)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2169, 1446, 567)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(540, 305, 97)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(141, 68, 18)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(38, 16, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(11, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0723 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+62 of 107 (57% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 124/1024         5952/49152    (12.1%) 
+brushes               5841/8192        70092/98304    (71.3%) 
+brushsides           42168/65536      337344/524288   (64.3%) 
+planes               20574/65536      411480/1310720  (31.4%) 
+vertexes             28383/65536      340596/786432   (43.3%) 
+nodes                 4897/65536      156704/2097152  ( 7.5%) 
+texinfos              7653/12288      551016/884736   (62.3%) 
+texdata                811/2048        25952/65536    (39.6%) 
+dispinfos               61/0           10736/0        ( 0.0%) 
+disp_verts            1525/0           30500/0        ( 0.0%) 
+disp_tris             1952/0            3904/0        ( 0.0%) 
+disp_lmsamples        2640/0            2640/0        ( 0.0%) 
+faces                16756/65536      938336/3670016  (25.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            13670/65536      765520/3670016  (20.9%) 
+leaves                5022/65536      160704/2097152  ( 7.7%) 
+leaffaces            19622/65536       39244/131072   (29.9%) 
+leafbrushes           9867/65536       19734/131072   (15.1%) 
+areas                   22/256           176/2048     ( 8.6%) 
+surfedges           137446/512000     549784/2048000  (26.8%) 
+edges                87939/256000     351756/1024000  (34.4%) 
+LDR worldlights        743/8192        65384/720896   ( 9.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           2129/32768       21290/327680   ( 6.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         40032/65536       80064/131072   (61.1%) 
+cubemapsamples         138/1024         2208/16384    (13.5%) 
+overlays                11/512          3872/180224   ( 2.1%) 
+LDR lightdata         [variable]     9660900/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      152271/16777216 ( 0.9%) 
+entdata               [variable]      364698/393216   (92.7%) VERY FULL!
+LDR ambient table     5022/65536       20088/262144   ( 7.7%) 
+HDR ambient table     5022/65536       20088/262144   ( 7.7%) 
+LDR leaf ambient     16874/65536      472472/1835008  (25.7%) 
+HDR leaf ambient      5022/65536      140616/1835008  ( 7.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/63218    ( 0.0%) 
+pakfile               [variable]    11641631/0        ( 0.0%) 
+physics               [variable]     2054481/4194304  (49.0%) 
+physics terrain       [variable]       10753/1048576  ( 1.0%) 
+
+Level flags = 0
+
+Total triangle count: 49441
+Writing c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+3 minutes, 17 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Hunter\Documents\Gmod maps\rev11\rp_c18_new_rv11.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in d:\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (1)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1282 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing C:\Users\Hunter\Documents\Gmod maps\rev11\rp_c18_new_rv11.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/grimmnight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/grimmnight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (2055488 bytes)
+Static prop models/props_lab/lab_flourescentlight002b.mdl outside the map (-1916.00, 128.00, 776.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 11610 texinfos to 7667
+Reduced 959 texdatas to 811 (48697 bytes to 42146)
+Writing C:\Users\Hunter\Documents\Gmod maps\rev11\rp_c18_new_rv11.bsp
+11 seconds elapsed
+
+
+
+8 threads
+reading c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+reading c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.prt
+1381 portalclusters
+2809 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 730 visible clusters (0.67%)
+Total clusters visible: 109099
+Average clusters visible: 79
+Building PAS...
+Average clusters audible: 259
+visdatasize:152271  compressed from 486112
+writing c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+16760 faces
+10 degenerate faces
+2072773 square feet [298479392.00 square inches]
+61 Displacements
+429 Square Feet [61881.54 Square Inches]
+16750 patches before subdivision
+192876 patches after subdivision
+743 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 19606487, max 955
+transfer lists: 149.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(299830, 349045, 268096)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(47412, 45808, 27791)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(9525, 7627, 3708)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2171, 1448, 567)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(540, 305, 97)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(141, 69, 18)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(38, 16, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(11, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0729 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+62 of 107 (57% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 134/1024         6432/49152    (13.1%) 
+brushes               5841/8192        70092/98304    (71.3%) 
+brushsides           42134/65536      337072/524288   (64.3%) 
+planes               20526/65536      410520/1310720  (31.3%) 
+vertexes             28373/65536      340476/786432   (43.3%) 
+nodes                 4972/65536      159104/2097152  ( 7.6%) 
+texinfos              7667/12288      552024/884736   (62.4%) 
+texdata                811/2048        25952/65536    (39.6%) 
+dispinfos               61/0           10736/0        ( 0.0%) 
+disp_verts            1525/0           30500/0        ( 0.0%) 
+disp_tris             1952/0            3904/0        ( 0.0%) 
+disp_lmsamples        2640/0            2640/0        ( 0.0%) 
+faces                16760/65536      938560/3670016  (25.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            13672/65536      765632/3670016  (20.9%) 
+leaves                5107/65536      163424/2097152  ( 7.8%) 
+leaffaces            19610/65536       39220/131072   (29.9%) 
+leafbrushes           9875/65536       19750/131072   (15.1%) 
+areas                   22/256           176/2048     ( 8.6%) 
+surfedges           137470/512000     549880/2048000  (26.8%) 
+edges                87899/256000     351596/1024000  (34.3%) 
+LDR worldlights        743/8192        65384/720896   ( 9.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           2129/32768       21290/327680   ( 6.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         40032/65536       80064/131072   (61.1%) 
+cubemapsamples         138/1024         2208/16384    (13.5%) 
+overlays                11/512          3872/180224   ( 2.1%) 
+LDR lightdata         [variable]     9660920/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      152271/16777216 ( 0.9%) 
+entdata               [variable]      368272/393216   (93.7%) VERY FULL!
+LDR ambient table     5107/65536       20428/262144   ( 7.8%) 
+HDR ambient table     5107/65536       20428/262144   ( 7.8%) 
+LDR leaf ambient     16957/65536      474796/1835008  (25.9%) 
+HDR leaf ambient      5107/65536      142996/1835008  ( 7.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/63284    ( 0.0%) 
+pakfile               [variable]    11641631/0        ( 0.0%) 
+physics               [variable]     2055488/4194304  (49.0%) 
+physics terrain       [variable]       10753/1048576  ( 1.0%) 
+
+Level flags = 0
+
+Total triangle count: 49449
+Writing c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+3 minutes, 16 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Hunter\Documents\Gmod maps\rev11\rp_c18_new_rv11.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in d:\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 1282 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing C:\Users\Hunter\Documents\Gmod maps\rev11\rp_c18_new_rv11.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/grimmnight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/grimmnight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (2055488 bytes)
+Static prop models/props_lab/lab_flourescentlight002b.mdl outside the map (-1916.00, 128.00, 776.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 11610 texinfos to 7667
+Reduced 959 texdatas to 811 (48697 bytes to 42146)
+Writing C:\Users\Hunter\Documents\Gmod maps\rev11\rp_c18_new_rv11.bsp
+10 seconds elapsed
+
+
+
+8 threads
+reading c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+reading c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.prt
+1381 portalclusters
+2809 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 734 visible clusters (0.67%)
+Total clusters visible: 109103
+Average clusters visible: 79
+Building PAS...
+Average clusters audible: 259
+visdatasize:152271  compressed from 486112
+writing c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+16760 faces
+10 degenerate faces
+2072773 square feet [298479424.00 square inches]
+61 Displacements
+429 Square Feet [61881.54 Square Inches]
+16750 patches before subdivision
+192876 patches after subdivision
+743 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 19606256, max 955
+transfer lists: 149.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(299837, 349052, 268102)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(47414, 45810, 27792)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(9526, 7627, 3708)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2171, 1448, 567)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(540, 305, 97)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(141, 69, 18)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(38, 16, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(11, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0729 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+62 of 107 (57% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 134/1024         6432/49152    (13.1%) 
+brushes               5841/8192        70092/98304    (71.3%) 
+brushsides           42134/65536      337072/524288   (64.3%) 
+planes               20524/65536      410480/1310720  (31.3%) 
+vertexes             28373/65536      340476/786432   (43.3%) 
+nodes                 4972/65536      159104/2097152  ( 7.6%) 
+texinfos              7667/12288      552024/884736   (62.4%) 
+texdata                811/2048        25952/65536    (39.6%) 
+dispinfos               61/0           10736/0        ( 0.0%) 
+disp_verts            1525/0           30500/0        ( 0.0%) 
+disp_tris             1952/0            3904/0        ( 0.0%) 
+disp_lmsamples        2640/0            2640/0        ( 0.0%) 
+faces                16760/65536      938560/3670016  (25.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            13672/65536      765632/3670016  (20.9%) 
+leaves                5107/65536      163424/2097152  ( 7.8%) 
+leaffaces            19610/65536       39220/131072   (29.9%) 
+leafbrushes           9875/65536       19750/131072   (15.1%) 
+areas                   22/256           176/2048     ( 8.6%) 
+surfedges           137470/512000     549880/2048000  (26.8%) 
+edges                87899/256000     351596/1024000  (34.3%) 
+LDR worldlights        743/8192        65384/720896   ( 9.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           2129/32768       21290/327680   ( 6.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         40032/65536       80064/131072   (61.1%) 
+cubemapsamples         138/1024         2208/16384    (13.5%) 
+overlays                11/512          3872/180224   ( 2.1%) 
+LDR lightdata         [variable]     9660928/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      152271/16777216 ( 0.9%) 
+entdata               [variable]      368272/393216   (93.7%) VERY FULL!
+LDR ambient table     5107/65536       20428/262144   ( 7.8%) 
+HDR ambient table     5107/65536       20428/262144   ( 7.8%) 
+LDR leaf ambient     16955/65536      474740/1835008  (25.9%) 
+HDR leaf ambient      5107/65536      142996/1835008  ( 7.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/63284    ( 0.0%) 
+pakfile               [variable]    11641631/0        ( 0.0%) 
+physics               [variable]     2055488/4194304  (49.0%) 
+physics terrain       [variable]       10753/1048576  ( 1.0%) 
+
+Level flags = 0
+
+Total triangle count: 49449
+Writing c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+3 minutes, 17 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in d:\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (1)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1282 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/grimmnight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/grimmnight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (2055488 bytes)
+Static prop models/props_lab/lab_flourescentlight002b.mdl outside the map (-1916.00, 128.00, 776.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 11610 texinfos to 7667
+Reduced 959 texdatas to 811 (48697 bytes to 42146)
+Writing c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+10 seconds elapsed
+
+
+
+8 threads
+reading c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+reading c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.prt
+1381 portalclusters
+2809 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 734 visible clusters (0.67%)
+Total clusters visible: 109103
+Average clusters visible: 79
+Building PAS...
+Average clusters audible: 259
+visdatasize:152271  compressed from 486112
+writing c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+16760 faces
+10 degenerate faces
+2072773 square feet [298479424.00 square inches]
+61 Displacements
+429 Square Feet [61881.54 Square Inches]
+16750 patches before subdivision
+192876 patches after subdivision
+743 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 19606256, max 955
+transfer lists: 149.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(299818, 349070, 268093)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(47412, 45810, 27790)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(9525, 7627, 3707)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2171, 1448, 567)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(540, 305, 97)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(141, 69, 18)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(38, 16, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(11, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0718 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+62 of 107 (57% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 134/1024         6432/49152    (13.1%) 
+brushes               5841/8192        70092/98304    (71.3%) 
+brushsides           42134/65536      337072/524288   (64.3%) 
+planes               20524/65536      410480/1310720  (31.3%) 
+vertexes             28373/65536      340476/786432   (43.3%) 
+nodes                 4972/65536      159104/2097152  ( 7.6%) 
+texinfos              7667/12288      552024/884736   (62.4%) 
+texdata                811/2048        25952/65536    (39.6%) 
+dispinfos               61/0           10736/0        ( 0.0%) 
+disp_verts            1525/0           30500/0        ( 0.0%) 
+disp_tris             1952/0            3904/0        ( 0.0%) 
+disp_lmsamples        2640/0            2640/0        ( 0.0%) 
+faces                16760/65536      938560/3670016  (25.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            13672/65536      765632/3670016  (20.9%) 
+leaves                5107/65536      163424/2097152  ( 7.8%) 
+leaffaces            19610/65536       39220/131072   (29.9%) 
+leafbrushes           9875/65536       19750/131072   (15.1%) 
+areas                   22/256           176/2048     ( 8.6%) 
+surfedges           137470/512000     549880/2048000  (26.8%) 
+edges                87899/256000     351596/1024000  (34.3%) 
+LDR worldlights        743/8192        65384/720896   ( 9.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           2129/32768       21290/327680   ( 6.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         40032/65536       80064/131072   (61.1%) 
+cubemapsamples         138/1024         2208/16384    (13.5%) 
+overlays                11/512          3872/180224   ( 2.1%) 
+LDR lightdata         [variable]     9660928/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      152271/16777216 ( 0.9%) 
+entdata               [variable]      368272/393216   (93.7%) VERY FULL!
+LDR ambient table     5107/65536       20428/262144   ( 7.8%) 
+HDR ambient table     5107/65536       20428/262144   ( 7.8%) 
+LDR leaf ambient     16958/65536      474824/1835008  (25.9%) 
+HDR leaf ambient      5107/65536      142996/1835008  ( 7.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/63284    ( 0.0%) 
+pakfile               [variable]    11641631/0        ( 0.0%) 
+physics               [variable]     2055488/4194304  (49.0%) 
+physics terrain       [variable]       10753/1048576  ( 1.0%) 
+
+Level flags = 0
+
+Total triangle count: 49449
+Writing c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+12 minutes, 37 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+16760 faces
+10 degenerate faces
+2072773 square feet [298479424.00 square inches]
+61 Displacements
+429 Square Feet [61881.54 Square Inches]
+16750 patches before subdivision
+192876 patches after subdivision
+743 direct lights
+0
+
+
+materialPath: D:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in d:\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (1)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1282 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/grimmnight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/grimmnight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (2055488 bytes)
+Static prop models/props_lab/lab_flourescentlight002b.mdl outside the map (-1916.00, 128.00, 776.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 11610 texinfos to 7667
+Reduced 959 texdatas to 811 (48697 bytes to 42146)
+Writing c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+11 seconds elapsed
+
+
+
+8 threads
+reading c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+reading c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.prt
+1381 portalclusters
+2809 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 726 visible clusters (0.67%)
+Total clusters visible: 109095
+Average clusters visible: 78
+Building PAS...
+Average clusters audible: 259
+visdatasize:152271  compressed from 486112
+writing c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+16760 faces
+10 degenerate faces
+2072773 square feet [298479424.00 square inches]
+61 Displacements
+429 Square Feet [61881.54 Square Inches]
+16750 patches before subdivision
+192876 patches after subdivision
+743 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 19606256, max 955
+transfer lists: 149.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(306002, 356113, 273313)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(48370, 46761, 28368)
+Build Patch/Sample Hash Table(s).....Done<0.0810 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+62 of 107 (57% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 134/1024         6432/49152    (13.1%) 
+brushes               5841/8192        70092/98304    (71.3%) 
+brushsides           42134/65536      337072/524288   (64.3%) 
+planes               20524/65536      410480/1310720  (31.3%) 
+vertexes             28373/65536      340476/786432   (43.3%) 
+nodes                 4972/65536      159104/2097152  ( 7.6%) 
+texinfos              7667/12288      552024/884736   (62.4%) 
+texdata                811/2048        25952/65536    (39.6%) 
+dispinfos               61/0           10736/0        ( 0.0%) 
+disp_verts            1525/0           30500/0        ( 0.0%) 
+disp_tris             1952/0            3904/0        ( 0.0%) 
+disp_lmsamples        2640/0            2640/0        ( 0.0%) 
+faces                16760/65536      938560/3670016  (25.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            13672/65536      765632/3670016  (20.9%) 
+leaves                5107/65536      163424/2097152  ( 7.8%) 
+leaffaces            19610/65536       39220/131072   (29.9%) 
+leafbrushes           9875/65536       19750/131072   (15.1%) 
+areas                   22/256           176/2048     ( 8.6%) 
+surfedges           137470/512000     549880/2048000  (26.8%) 
+edges                87899/256000     351596/1024000  (34.3%) 
+LDR worldlights        743/8192        65384/720896   ( 9.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           2129/32768       21290/327680   ( 6.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         40032/65536       80064/131072   (61.1%) 
+cubemapsamples         138/1024         2208/16384    (13.5%) 
+overlays                11/512          3872/180224   ( 2.1%) 
+LDR lightdata         [variable]     9660928/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      152271/16777216 ( 0.9%) 
+entdata               [variable]      368272/393216   (93.7%) VERY FULL!
+LDR ambient table     5107/65536       20428/262144   ( 7.8%) 
+HDR ambient table     5107/65536       20428/262144   ( 7.8%) 
+LDR leaf ambient     16936/65536      474208/1835008  (25.8%) 
+HDR leaf ambient      5107/65536      142996/1835008  ( 7.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/63284    ( 0.0%) 
+pakfile               [variable]    11641631/0        ( 0.0%) 
+physics               [variable]     2055488/4194304  (49.0%) 
+physics terrain       [variable]       10753/1048576  ( 1.0%) 
+
+Level flags = 0
+
+Total triangle count: 49449
+Writing c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+1 minute, 47 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in d:\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1282 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/grimmnight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/grimmnight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (2055488 bytes)
+Static prop models/props_lab/lab_flourescentlight002b.mdl outside the map (-1916.00, 128.00, 776.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 11610 texinfos to 7667
+Reduced 959 texdatas to 811 (48697 bytes to 42146)
+Writing c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+10 seconds elapsed
+
+
+
+8 threads
+reading c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+reading c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.prt
+1381 portalclusters
+2809 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 731 visible clusters (0.67%)
+Total clusters visible: 109100
+Average clusters visible: 79
+Building PAS...
+Average clusters audible: 259
+visdatasize:152271  compressed from 486112
+writing c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+16760 faces
+10 degenerate faces
+2072773 square feet [298479424.00 square inches]
+61 Displacements
+429 Square Feet [61881.54 Square Inches]
+16750 patches before subdivision
+192876 patches after subdivision
+743 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 19606256, max 955
+transfer lists: 149.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(306002, 356113, 273313)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(48370, 46761, 28368)
+Build Patch/Sample Hash Table(s).....Done<0.0713 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+62 of 107 (57% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 134/1024         6432/49152    (13.1%) 
+brushes               5841/8192        70092/98304    (71.3%) 
+brushsides           42134/65536      337072/524288   (64.3%) 
+planes               20524/65536      410480/1310720  (31.3%) 
+vertexes             28373/65536      340476/786432   (43.3%) 
+nodes                 4972/65536      159104/2097152  ( 7.6%) 
+texinfos              7667/12288      552024/884736   (62.4%) 
+texdata                811/2048        25952/65536    (39.6%) 
+dispinfos               61/0           10736/0        ( 0.0%) 
+disp_verts            1525/0           30500/0        ( 0.0%) 
+disp_tris             1952/0            3904/0        ( 0.0%) 
+disp_lmsamples        2640/0            2640/0        ( 0.0%) 
+faces                16760/65536      938560/3670016  (25.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            13672/65536      765632/3670016  (20.9%) 
+leaves                5107/65536      163424/2097152  ( 7.8%) 
+leaffaces            19610/65536       39220/131072   (29.9%) 
+leafbrushes           9875/65536       19750/131072   (15.1%) 
+areas                   22/256           176/2048     ( 8.6%) 
+surfedges           137470/512000     549880/2048000  (26.8%) 
+edges                87899/256000     351596/1024000  (34.3%) 
+LDR worldlights        743/8192        65384/720896   ( 9.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           2129/32768       21290/327680   ( 6.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         40032/65536       80064/131072   (61.1%) 
+cubemapsamples         138/1024         2208/16384    (13.5%) 
+overlays                11/512          3872/180224   ( 2.1%) 
+LDR lightdata         [variable]     9660928/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      152271/16777216 ( 0.9%) 
+entdata               [variable]      368272/393216   (93.7%) VERY FULL!
+LDR ambient table     5107/65536       20428/262144   ( 7.8%) 
+HDR ambient table     5107/65536       20428/262144   ( 7.8%) 
+LDR leaf ambient     16936/65536      474208/1835008  (25.8%) 
+HDR leaf ambient      5107/65536      142996/1835008  ( 7.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/63284    ( 0.0%) 
+pakfile               [variable]    11641631/0        ( 0.0%) 
+physics               [variable]     2055488/4194304  (49.0%) 
+physics terrain       [variable]       10753/1048576  ( 1.0%) 
+
+Level flags = 0
+
+Total triangle count: 49449
+Writing c:\users\hunter\documents\gmod maps\rev11\rp_c18_new_rv11.bsp
+1 minute, 47 seconds elapsed

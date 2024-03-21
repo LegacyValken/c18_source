@@ -1,11 +1,13 @@
 Credits:
 
-V1 (January 2008)
+V1
 - HumiliatioN
-> After V1, HumiliatioN went on to make rp_tb_city45 - (July 2007) (Alias V1a)
+> (Alias V1a) (July 2007) After V1, HumiliatioN went on to make rp_tb_city45
 
 V2
 - Dr. Alto Clef
+> (Alias V2a) (20x?) Alto provided a partial VMF to the community when he burned out
+> (Alias V2b) (2016) Starship Trooper created a cursed development path useing a decompile of V2 merged with V2a to create a deeply unpopular opioniated design patway. 11 versions of this false path were developed before being scraped.
 
 V3 
 - Dr. Alto Clef
@@ -13,6 +15,7 @@ V3
 - Starship Trooper
 - Hanson the Bear
 - Legacy the Duck
+
 
 v4
 - Grandad
