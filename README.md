@@ -24,7 +24,7 @@ Credits:
 - Hanson the Bear
 - Starship Trooper
 - Legacy the Duck
-> V4x Starship Trooper poked in and out of V4 development cycle to help here and there. Some loose vmf's were transfered for deeper inspection, not sure of the context for these just that I have them (ST).
+> V4x Starship Trooper poked in and out of V4 development cycle to help here and there. Some loose vmf's were transfered for deeper inspection, not sure of the context for these; just that I have them (ST).
 
 # v5
 - Legacy the Duck
@@ -32,3 +32,7 @@ Credits:
 
 Contact info:
 - Starship Trooper (Hunter@Corgo.org)
+
+Notes from Starship Trooper:
+I have uploaded v4 and v5 into the folders but I dont have context for the files. I am not sure if they are the actual release or prerelease etc. I want to fill the history the best I can so that there are no holes but if someone else can do better please do :).
+
