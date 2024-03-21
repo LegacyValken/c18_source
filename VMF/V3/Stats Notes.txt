@@ -1,0 +1,752 @@
+---rp_c18_v1(Fixed)--- [06/28/2017]
+Removed Breen sigh in mafia spawn
+Removed power cords hanging to power breen sign in mafia spawn
+
+---v_start--- [06/28/2017]
+Decompiled Textures from 'rp_c18_v1.bsp' and packed into rar. To use: Unpack Resoruces.rar into the folder common->GarrysMod->garrysmod->materials
+
+---v_1--- [06/28/2017]
+Func_Detail wooden pannel in Fat Nargodian desk
+Removed sideways wall in Fat Nargodian bathroom
+Removed small grate in Fat Nargodian bathroom
+Func_Detail arches into mafia warehouse
+Func_Detail Door way into mafia warehouse
+Func_Detail second floor of Hostel
+Func_Detail Hostel back door balcony
+Removed Brush from red room ceiling
+Removed Brush from red room windows
+Func_Detail Brush in between windows in red room
+Func_Detail small divider in back of old bar
+Removed Brushes under Bar in old bar
+Func_Detail small step inswide the bar
+Removed 2 Brushes in old bar against wall opening the room up
+Reseized old bar window to be flush with wall
+Removed Brush in old bar in stair well
+Reseized old bar balcony by stair well
+Removed Brush from Souvenirs ceiling
+Removed two extra brush from Souvenirs wall
+Func_Detail wood platform in Souvenirs
+Removed Brush from under platform in Souvenirs
+Lowered wall behind dumbster infront of Fat Nargodian
+Removed skybox slice in Fat Nargodian alley
+Removed unknown nodraw from hospital
+Func_Detail 3 pillars from hospital
+Func_Detail 12 brushes in front of hospital connecting to bridge
+Func_Detail 3 parmid building toppers ontop of hospital
+Func_detail 2 pillars(4 brushes per) in front of hospital
+Func_Detail 15 brushes of mayors overhang over hospital
+Func_Detail 4 brushes in nexus lobby
+Removed 3 brushes from nexus lobby
+Func_Detail 2 brushes from nexus lobby, Monitor mount to wall
+Func_Detail 2 bursh from nexus lobby window
+Rebuilt ceiling in nexus lobby
+Func_Detail extra brush under nexus before elevator
+Func_Detail 3 brushes under nexus, double doors
+Removed 4 brushes under nexus, double doors
+Slightly lowered ceiling in prison room
+Removed 3 brush from prison room (floor and 2 split walls)
+Func_Detail 27 brushes under nexus, alt prison rooms
+Removed 4 brushes under nexus, alt prison rooms
+Func_Detail 24 brushes under nexus, interrogation rooms
+
+---v_2--- [06/29/2017]
+Func_Detail 2 brushes under nexus sniper bridge
+Made green carpet flush with ground in Change, removed 1 brush from floor
+Func_Detail 1 brush in change pillar in corner
+Removed 1 brush in Chage, This brush had the wrong texture applied and had out of place bricks in the corner 
+Func_Detail and rearranged the corner in change (No longer indavidual rooms)
+Removed Brush hideing in wall in Change
+Removed 2 couches props from change
+Removed 6 props from building above change
+Func_Detail 15 brushes in building above change
+Removed 1 brush from wall near door
+Func_Detail 2 brushes in Z room
+Rearriagned outside windows of theatre
+corrected stairs leading to Z
+Removed prop from thrift
+Removed vent in thift
+Removed 4 props from hospital
+Func_Detail 2 brushes in bakery (pillars by windows)
+Removed 29 props from slums
+Removed 19 props from nexus
+Removed 14 props from 45th aps
+Reworked bridge by theatre
+Removed 3 props within 45th aps 
+Fixed skybox overhang
+Func_Detail the roof of 45th aps
+Removed unused 5th floor from 45th aps (the stairway leading to the locked door)
+
+---v_3--- [07/01/2017]
+Removed floating lamp (I made this bug removeing the 5th floor stairs)
+Cleaned up floor of alley near thrift (Fences were removed)
+Func_Detail celining of alley near thrift
+Func_Detail 2 floor tiles in alley near thrift (by useless door)
+Merged faces to remove visleaf in thrift alley
+Func_Detail floor under screen in theatre
+Removed 14 brushes and cleaned up lobby of theatre
+Added Hint brush between screen and hallway
+Resized bursh by 45th aps 4th floor alley
+Cleaned up theatre hallway Removed 5 brush
+Func_Detial 3 brushes in theatre hallway (arches) 
+removed trash can in hallway
+Removed fence and trashcan in theatre lobby
+Removed fence and trashcan by front door of theatre
+Added 3 hint brushes to theatre (its all screwed up since the lobby lands on a visleaf seam)
+Created new vision group 'VVIS' this will hold hint/skip brushes, brushes made in theatre were set to it
+The VVIS Group can be hidden for the user but will still compile even when hidden
+converted redcarpet in stheatre  from 2 Func_Detials to 1
+Corrected skybox hole near civ spawn
+func_Detail brush back of thrift garage wall
+Fixed wrong texture in front on civ spawn
+Removed brush in front of civ spawn
+Func_Detail 2 brushes in front of civ spawn doorway
+4 Nexus front doors removed
+Func_Detail 1 bursh over nexus front door
+Fixed z clipping in bakery
+Func_Detail step leading into bakery
+Func_Detail window frames, 8 brushes, Bakery
+Func_Detail ramp in bakery 7 brushes
+Func_detail pillar in slums
+Removed 3 board props from window in slums
+Removed blocks from Z
+Trimmed height of brushes in Z
+Func_Detail front foor of Z, 11 brushes
+Func_Detail brush above Change
+Sank corner sidewalk to make it flush
+Added light in 45th aps stair well to compendsate for missing stair way
+Removed destruction from streets
+Removed Chair prop from mayor room
+Removed glitched breen arm model
+made hallway flush in nexus
+Func_Detail 6 burshes in nexus hallway
+Rebuilt stairway by backdoor to Nexus (Func_Detail 5)
+Rebuilt celining by backdoor to Nexus (Func_Detail 5)
+Removed 7 road tiles by civ spawn and expanded the road to cover it
+Removed 6 road tiles by mafia spawn and expanded the road to cover it
+
+---v_4--- [07/03/2017]
+removed 4 props from FOTO
+Extended FOTO
+Placed exit sign in 45th aps but working on texture for it (I want it packed so users dont need CSS)
+Fixed Z fighting in front of Z
+Removed strange propshape in front of Z
+Made 4th floor exit sign nocollide so players wont bump their heads in door way
+Fixed wrong texture on 4th aps.
+Corrected foto door height
+removed register prop from change
+removed register from bakery
+removed create from mafia warehouse
+removed fence from mafia warehouse door
+Func_Detail 3 brushes in Z doorway mold
+Removed 1 floor brush in Z
+Trimmed floor,celing, and walls height in Z 
+Trimmed Nexus walls and removed 5 brushes
+Removed useless brush by Z
+Made camera room novis, 6 brushes (oput of map)
+Remved credits room and moved credits texture to camera room (outside of level)  Removed 7 brushes, 2 decals, 6 lights
+Fixed Brush collision underneath mob boss spawn 
+Fixed Brush collision underneath pizzaria
+Fixed Brush collision underneath bakery
+Fixed Stair leading to Z not linked up to floor
+Corrected concrete in prison floor
+Func_Detail 15 brushes in prison hallway
+Trimmped prison hallway length
+Removed 3 brushs from prison hallway
+Lowered tripping hazzard from prison hallway
+Fixed Nexus windows Z fighting when lowered
+Removed pipe prop pokeing through wall in nexus lobby
+Func_Detail 1 brush at top of stairs in nexus
+Added 2 textures to top of hotel sign
+Removed extra window from red room (1 Brush)
+Added texture to window in red room
+Trimmed wall heigh in old bar
+Func_detail 2 brushes in old bar against wall
+Removed door in old bar, Swing door
+Removed 7 props from old bar
+Removed 6 burshes from old bar bathroom
+Func_Detail 1 bursh in old bar bathroom, above door
+Removed 2 burshes from old bar (made func_detail but messing will wall by hobo spawn)
+Func_Detail ramp under old bar stairs to even out visleaf
+Completely rebuild floor of old bar and outside of old bar fixing and trimming walls
+Fixed lights in old bar being away from wall
+Corrected lights in subway not connected to wall
+Seperated Hobo spawn from oldbar (some walls were shared)
+Removed prop from back of old bar
+novised most of oldbar
+Corrected double doors in nexus, gap?
+Removed 7 props from hostel
+Rotated oven in hacker spawn
+
+---v_5--- [7/4/2017]
+Corrected road under mafia spawn
+Func_Detail ramp into mafia garage
+Func_Detail Hostel sign
+Func_Detail 4 brushs in Hostel, window and window border missing a func_detail
+Func_Detail 6 burshes in slums road
+Func_Detail 1 bursh near suvinior
+Func_Detail 5 burshes Windows of 45th aps, this greatly cleaned up vvis
+Func_Detail 3 stairs leading to 45th aps
+Func_Detail 5 brushes under bakery floor
+Func_Detail 8 brushes of bakery window frames
+Rebuilt floor of civ spawn
+Rebuilt floor of plaza (This was a fucking nightmare)
+Func_Detail Brush the invis wall across civ spawn bridge
+Func_Detail 3 brushes in 45th apps manager room
+Fixed floating light in 45th aps manager room
+Func_Detail 9 brushes from 45th aps bottom floor
+Fixed VVIS in 45th aps stairwell
+
+---v_6--- [7/4/2017]
+Corrected road under hospital
+Simplified curv in front door of hospital, stair still need to be redone
+Trimmed height of hospital
+Trimmed skybox, holy fuck
+Removed 8 props from theatre
+Removed glow from theature lights
+Removed glow around blocades, hospital, pizza, nexus skylight
+Nexus skylight white glow was removed and replaced with a functional skylight to view skybox
+Skylight in nexus was trimmed
+Inside of nexus had light blooms removed
+
+---v_7--- [7/5/2017]
+Fixed road by hobo spawn
+Fixed road in front of theature
+Fixed road under nexus bridge
+Correct sidewalk texture not ligned up correctly
+Double doors were fixed in nexus prison
+Fixed slope in back of pawn/thrift (I made this bug)
+Corrected missing texture and stairwell by banned spawn
+Fixed unneeded skybox in civspawn
+Added player clip near bail out machine (will need testing to make sure machine is still useable)
+Removed two skyboxes as indicated in photo near SPT spawn. (Skybox in this area has not be rebuilt yet so this change might be undone)
+Func_detail 4 brushes in slums
+Centered Elevator button (by nexus sniper)
+Fixed double elevator button in nexus (Elevator 3)
+
+---v_8--- [08/22/2017]
+Added DJ alto's new garage
+Changed windows to be closed in new garage
+Created another button for the second garage door
+Changed garage doors to func_door
+Replaced garage buttons to be func_button
+Removed two relays from new garage and linked buttons dirrectly to door
+Func_detail 3 brushes in doorway of new garage
+Func_detail 1 brush advert in plaza
+Added 3 area portals to new garage linked the portals to each door
+Removed phys wall by civ spawn bridge, 1 brush, 2 props, 2 sounds spaces
+Removed useless door in civspawn, 4 brushes, 2 props
+Corrected texture in Z, my fault
+Func_detail 9 brushes in bakery
+Made bakery window a area portalwindow and removed area portal on second floor
+Added ladder to plaza bridge
+Imported rooms above bakery from DJ Alto
+Split Z, and bakery from nexus walls
+Fixed stoop ontop of bakery
+There is an extra room in slums apartment?
+Func_Detail rooms in slums apartment
+Removed displayment from slums walkway
+Removed unused room in slums (by back door of nexus)
+Trimmed path in slums
+Removed 7 props from back of pizzaria
+Fixed sidewalk slightly offset in front of new garage
+Trimmed wall by nexus/hospital
+Trimmed between civ spawn and mayor room
+Inserted new hallway in slums
+Inserted new bar
+Inserted new oil man location
+Fixed sidewalk by foto to be flush (My error)
+Corrected incorect copy paste of new bar in Z (My error)
+Moved console in theatre to be flush with wall and not clip with counter
+Func_Detail 10 brushes in back of new bar
+Replaced wood texture used in new bar
+Replace handrails with hl2 hand rails
+Removed 1 brush in slums hallway covering window
+Picked a better texture in new bar for wood 
+Func_detail 6 burshes in new bar hallway
+Func_detail 12 brushes in new bar floor
+Fixed Z fighting on new bar wall
+Centered light in new bar
+Removed trashcan from new bar hallway
+Moved old bar backroom so it wont be so close to new bar backroom
+Func_detail 1 brush in old bar backroom hallway floor
+Resized brush to seperate old bar and subway (no visual diffrence just trimming)
+
+---V_9--- [03/01/3018]
+Cut brushes to ensure textures do not show outside of the map. (4 Brushes)
+Applied texture to roof above catwalk base
+Moved brush collision in civ spawn garage
+Removed all breen screens to reduce brush count
+Moved and pushed brushes behind fences in civ spawn closer to reduce - texture length
+Moved cords connecting to breen screen at civ spawn over to the wall
+Novis'd majority of the map and brushes in between rooms
+Placed a few textures on some rooftops and places admins would normally see (Civ spawn buildings)
+Moved combine prop and button infront of alt jails to prevent clipping into brush
+Moved windows above bakery to align with brushes
+Moved window frames above bakery to fit in with window
+Moved building behind combine gate to cover sky pocket in mafia spawn
+Moved two archway brushes and extended them down to cover unnecessary textures
+Tweaked rotating doors at warehouse to snug into door frame
+Shortened brush under red room doorway
+Shortened floor brush infront of red room doorway
+Moved window frame brushes above hacker spawn/red tunnel to fix z fighting
+
+---V_10--- [03/07/2018]
+1 NoVis wall on Foto
+Removed 4 Ambient_generics from nexus
+Removed 70 env_sprite's
+Removed 40 env_soundscape
+Removed 2 trigger hurt from subway rails
+Removed 9 prop_physics
+Removed 1 env_fire from grill
+Removed 4 item_suitcharger from nexus
+Removed 23 info_player_start (left 1)
+Removed 2 ropes in civ spawn + 2 decals
+Removed 3 ropes from outside of spawn
+Removed 2 clocks from civ spawn
+Fixed 'Pillars behind washers in apts lobby floor has gap'
+Removed Combine doors blocking by mafia spawn
+Corrected 2 z-fighting brushes by mafia spawn
+Removed 2 Combine doors blocking by mafia spawn
+Removed 2 breakable windows by spt spawn
+Added area_portal to spt spawn door 
+Added 2 area_portal_windows to spt windows
+Added Start and Stop sound to 2 garage doors (Alto)
+Removed 9 func_monitors left 2 (Mayor screen, Theater)
+Added Start_Stop sound to new garage doors
+Converted Old garage door to func_door (toggle + use opens)
+Converted Mafia Spawn door to func_door (toggle + use opens)
+Fixed spiral stairs by slums
+"Fixed" zfighting by foto, not worth time needed to fix it correctly
+Fixed floating door by slums
+Fixed broken texture by oil man
+Removed CS grafiti from oil man area
+Imported front door light to New bar
+Imported light to sniper area (above bakery)
+Alto imported lights dont look right (I think this is lightmap scale issue)
+Removed 4 brushs from change windows
+
+---V_11--- [03/14/2018]
+Matched height of theater to across the street
+Removed 9 brushes by hobo spawn
+Added back 4 skybox brushes
+Skybox above hobo spawn was trimmed
+6 brushes removed from hobo spawn road
+Created new VisGroup 'CompletedSkybox' and moved new hobo skybox into it
+Imported 60 brushes, sit rooms from grandad map (6 rooms)
+Removed custom grifiti from plaza billboard
+Corrected glow on road/sidewalk next to Foto
+Added player clip to mayor room
+Removed extra brush z fighting in oil spawn
+Removed Z fighting brush from mafia spawn gate
+Removed Z fighting brush from hospital gate
+Removed Z fighting brush from civ spawn gate
+Removed Z fighting brush from hobo spawn gate
+Corrected Z fighting in nexus arch
+Corrected Leggys nodraw mistake in plaza
+Removed 2 brushs from plaza road
+Removed now unused 'rdwh' texture
+Created new folder 'C18'
+Renamed '45apartment' to 'C18-45-Billboard'
+Renamed 'C18-1' to 'C18-Billboard'
+Renamed 'C18-1decal' to 'C18-Decal'
+Renamed 'CREDITS' to 'C18-Credits'
+Renamed 'FATNARGODIAN' to 'C18-Pizza-Billboard'
+Renamed 'SAFERBREENPROP1' to 'C18-Breen-Banner'
+Replaced '45apartment' in map to new texture
+Replaced 'C18-1' in map to new texture
+Replaced 'CREDITS' in map to new texture
+Replaced 'FATNARGODIAN' in map to new texture
+Replaced 'SAFERBREENPROP1' in map to new texture
+Replaced Decals + overlays of "tnb/c18-1decal" in map to new texture
+Removed TNB folder and content from gmod
+Created 'Content.rar' for other developers with .vmf
+Removed '45th Apartments' Visgroup
+Removed 'CCA Nexus' Visgroup
+Removed 'Trainstation Street' Visgroup
+Removed '3d sky' Visgroup
+Removed 'VVIS' Visgroup
+Rebuilt skybox above civspawn
+
+---V_12--- [03/15/2018]
+Imported event room
+Moved event room to not conflict with 3D skybox *Needs testing.
+Created new visgroup 'Completed Roads'
+Populated 'Completed Roads' visgroup
+Renamed visgroup 'CompletedSkybox' to 'Completed Skybox'
+Created new visgroup 'Civ Spawn'
+Populated 'Civ Spawn' visgroup
+Corrected cubemap in plaza
+Trimmed skybox by hospital
+Added new skybox above hospital to 'Completed Skybox' visgroup
+Removed cubemap just outside of civ spawn door
+Rebuilt skybox above mafia spawn (This was hell)
+
+---V_13--- [03/19/2018]
+Removed 1 prop from civ spawn entrance
+Removed 14 brushes from civ spawn entrance
+Removed 13 skybox brushs from old bar
+Trimmed oldbar walls
+Removed 16 skybrushs from slums
+Added 7 brushs to slums
+Added 1 brush to old bar skybox
+Moved 55 brushs into Vis Group 'Completed Skybox'
+Replaced 29 dev textures
+Replaced 134 dev textures
+Removed 30 nodes from event room
+Added light to event room (so it isnt removed in compile)
+Added cubemap to event room
+Restored dev textures to event room
+Removed 18 lights from sit rooms
+Added 1 cubemap in middle of sit room (the rest should use this one)
+Converted sit room walls to 16 units
+Fixed mafia spawn doors
+
+--V_14-- [06/29/2018]
+Changed two textures in nexus, blocked off floor view
+Made hospital into visgroup Completed Hospital
+Moved roads into Completed Roads Visgroup
+Moved lights in subway to try to prevent hard shadows
+Retextured error wall in 45th aps
+Made stairs by sniper spawn wider (should be easier to get in + out)
+Sniper spawn door wall moved to allow more room
+Corrected light outside of SPT spawn
+Added area portal to hospital 
+Corrected texture in civ spawn
+Fixed above bakery area portal
+set road to a higher light map scale (64)
+Added hint brush to civ plaza corner
+[06/25/2018]
+Nodraw 2 door frames in pawn shop
+Named front door of pawn shop
+Named side door of pawn shop
+Added area portal to front door of pawn shop
+Added area portal to side door of pawn shop
+Added area portal window to pawn shop
+Added fade area portal window to pawn shop
+Set distance cut off of pawn shop window
+Fixed strange looking light by spawn shop side door
+Fixed height of hint brush to civ plaza corner
+Rotated light coming from plaza corner street light to better hide texture mismatch
+[06/26/2018]
+Added hint brush to red slums corner
+Added hint brush to corner of hobo spawn
+Added 2 hint brushs to thearer bridge
+Added hint brush in front of change
+Added hint brush in front of hospital
+Added hint brush to nexus lobby
+Split lobby of nexus (Nexus lobby / Nexus Prison area)
+Fixed New area portal by pawn front door
+Fixed New area portal by pawn side door
+Named door by alleyway
+Added areaportal to small alleyway closet
+Removed trigger from nexus airlock
+Named door for oil man near new bar
+Added areaportal to oil man door
+BUG Fixed oil man door haveing two door stacked ontop of each other
+Named door for new bar
+Added areaportal to new bar
+Named window for new bar
+Removed window frame from new bar
+Added areaportal window to new bar
+Added hint brush to alleyway
+Named door to mafia spawn
+Named double doors to mafia spawn
+Added areaportal to mafia spawn garage door
+Added areaportal to mafia spawn double doors
+Named door to souvenirs
+Added areaportal to souvenirs door
+Named window to souvenirs
+Added areaportal window to souvenirs window
+Added areaportal to double doors at pizza place
+[06/27/2018]
+Check bathroom doors in 45th aps
+Fixed 5th floor 2nd room bathroom door frame
+Fixed 4th floor 2nd room bathroom door frame
+Fixed 3rd floor 2nd room bathroom door frame
+Fixed 2nd floor 2nd room bathroom door frame
+Fixed 1st floor 2nd room bathroom door frame
+Fixed 5th floor 1st room bathroom door frame
+Fixed 4th floor 1st room bathroom door frame
+Fixed 3rd floor 1st room bathroom door frame
+Fixed 2nd floor 1st room bathroom door frame
+Fixed 1st floor 1st room bathroom door frame
+Moved 5th floor 2nd room bathroom door to be inline verticaly with the other floors
+Moved 4th floor 2nd room bathroom door to be inline verticaly with the other floors
+Moved 3rd floor 2nd room bathroom door to be inline verticaly with the other floors
+Moved 2nd floor 2nd room bathroom door to be inline verticaly with the other floors
+Moved 1st floor 2nd room bathroom door to be inline verticaly with the other floors
+Moved 5th floor 1st room bathroom door to be inline verticaly with the other floors
+Moved 4th floor 1st room bathroom door to be inline verticaly with the other floors
+Moved 3rd floor 1st room bathroom door to be inline verticaly with the other floors
+(No change) 2nd floor 1st room already inline
+(No change) 1st floor 1st room already inline
+Moved 2nd floor 1st room front door to be inline verticaly with the other floors
+Moved 2nd floor 2nd room front door to be inline verticaly with the other floors
+*'Invisible' brush will prevent objects pushed into it while 'Clip' does not
+Added 'Invisible' brush to hospital cp barrier
+Converted mayor room 'Clip' to 'Invisible' brush
+Added 2 'Invisible' brushs to civ spawn cp barrier
+Added 'Invisible' to hobo spawn cp barrier
+Added 'Invisible' to mafia spawn cp barrier
+[06/28/2018]
+Applied no draw to 1 face under Z
+Converted 2 areaportal windows of Z into 1 (did not change visuals of the window)
+Converted 3 areaportal windows of Change into 1 (did not change visuals of the window)
+Named nexus sniper door
+Added areaportal to nexus sniper door
+Added areaportal window to nexus sniper window
+Added areaportal to old garage lift door
+Named old garage door
+Added areaportal to old garage door
+Added areaportal window to old bar
+Named old bar door
+Added area portal to old bar door
+Centered old bar door into frame
+Fixed foto window no longer apearing black when further way (areaportal window ordering issue)
+Named red room door
+Added areaportal to red room door
+Added areaportal window to red room window
+Added 6 hint brushes to subway
+Cleaned up subway vvis
+Cleaned up subway novis a few un seen textures
+Fixed subway entrance near mafia spawn screwing with vvis
+Added hint brush to subway mafia spawn entrance
+Trimmed unused building in slums walls and applied no draw
+Fixed texture issues between slums and oil man room
+Fixed step between slums and oil man room causing vvis issues
+Fixed step between slums and new bar cuasing vvis issues
+Func_detailed sidewalk in front of pizza
+Added hint brush to front of pizza
+Corrected pizza walls not being verticaly alligned
+Added hint brush to slums hallway to new bar
+Added hint brush in front of red room
+Removed wall buldge in front of souvernirs (easier to get to ladder)
+[06/29/2018]
+Remove front door of civ spawn (like on live)
+Converted civ front door areaportal to [Always Open]
+Added area portal to civ spawn side entrance
+Named nexus back door
+Added area portal to nexus back door
+Added area portal to nexus door to mayor bridge
+Added area portal to nexus patio
+Converted hint brush to area portal of nexus main entrance [Always Open]
+Added area portal to nexus prison double doors
+Added Nodraw to back of hallways pillars in nexus hallway
+Added are portal to prison lobby
+Named Nexus prison lobby window
+Added are portal window to nexus prison lobby
+Rewrked nexus prison lobby so there is no longer a pocket
+Set pipes in nexus prison lobby to have no physics so players cant stand ontop of them anymore
+Converted 2 hint brushes in subway to area portals [Always Open]
+Removed hint brush in front of theatre
+Created area portal leading to slums [Always Open]
+Created area portal slums ladder [Always Open]
+Created area portal under bridge leading to hospital [Always Open]
+--V_15-- [07/03/2018]
+Removed all info_node entities
+Removed RT screen from theatre
+Removed mayor broadcasting equipment
+Removed back door from pizza place
+Removed mini RT camera room outside of the map
+Changed window above civ spawn to its lit up version
+Widened red light hallway
+Nodrawed a few faces in the nexus
+Fixed texture misallignment on civ spawn road
+Fixed lighting origin issue with combine wall prop on roof 2
+Fixed origin points on nexus elevator buttons
+Fixed brush issue with all combine gates
+Fixed most door leak issues (if theres more please tell me)
+Fixed nexus basement door lighting
+Added lights to catwalk base
+Added trains to its own vis group and disabled it
+Added invis brushes to bottom of nexus elevators
+Added player clip brush to banned spawn stairs
+Added 2 player clip brushs to SPT aps
+Added 2 player clip to back door of nexus
+Added 2 player clip brushes to drug den
+Named drug den front door
+Named drug den back door
+Added area portal to drug den front door
+Added area portal to drug den back door
+Removed 1 brush from drug den window
+Func_detail 1 brush in drug den window
+Added area portal window to drug den window
+I had to remove 1 window from drug den, Both windows strattle a visleaf causing 1 portal always to be open and the other always closed.
+Opened up area above mayor
+Added 2 invis brushes to prevent players from getting stuck in mayor pillars
+Rotated mayor celing prop to no longer stick out of second floor brush
+--V_16-- [07/05/2018]
+Fixed Apartments lobby floor texture misalignments
+Fixed hitman bridge have angled textures
+Fixed Exit floor of apts door closest to exit is a small fraction above the floor
+Fixed dark wall in oil man room
+Fixed texture in red tunnel
+Fixed texture misalignment in pizza back room
+Fixed texture misalignment in pizza back room pt 2
+Fixed shadow on pizza sign
+Added better roof to slums in front of pizza
+--V_17-- [07/06/2018]
+Fixed lighting issue in change
+Fixed texture transition by 45th aps bridge
+Fixed texture in tunnel going to slums
+Added areaportal to second floor bakery 
+Added a red Light to transition from upper slums to old bar
+
+--V_18-- [08/07/2018]
+Added areaportal above change by bridge [Always Open]
+Added areaportal above change front entrance [Always Open]
+Named door above change
+Added areaportal to door above change
+Removed 1 cubemap from room above change
+Added light back to mafia streets
+Created new texture 'C18-CreditsNew'
+Imported 'C18-CreditsNew' into the map, unused room in civ spawn
+Added the new texture 'C18-CreditsNew' to content.rar
+Pulled light in slums away from wall so door frame wont cast shadow
+Changed lightmap scale in change and new garage back to 16
+Removed blockview bushes in change
+Updated C18-CreditsNew.vmt to be back lit so the credits can be seen without needing flashlight.
+Removed extra brush in new garage ramp
+Rebuilt the window to change
+Fixed shadow in change (un-func_detail curb in front of civ spawn)
+Fixed outside light by pawn shop
+Grampa - Fixed doors in nexus z clipping
+Grampa - Removed magic tile in chief room
+Grampa - Fixed wrong texture on slums room
+Grampa - Fixed airvent being wrong color
+Grampa - Fixed pipes in bakery floating
+Grampa - Fixed pipes in bakery haveing collision
+Grampa - Fixed mayor light
+Grampa - Fixed theatre being too dark
+Grampa - removed toggle light in tourture room
+Grampa - reflections on old bar floor
+Grampa - Fixed wood floor being sideways in both rooms in SPT building
+Grampa - Fixed bottom of garage door textures
+Grampa - Raised floor of nexus sniper room to be flush with door way (no more steps)
+
+--V_19-- [08/25/2018]
+Added 1 brush in plaza to func_detail (It was missed earlier)
+Added 3 face to nodraw in civ plaza
+Flushed water drain pipe in civ plaza
+Fixed z fighting in above bakery base (areaportal z fighting with invetween windows)
+Disabled shadows of garbage in above bakery base
+Fixed textures in nexus (base of elevator)
+Fixed cubemaps in change and transition to plaza
+Fixed wrong lamp color in new garage (outside lamp)
+Disabled shadows on doors in foto 
+Disabled doors shadows civ spawn
+Disabled door shadows pawn
+Disabled door shadows above change
+Disabled door shadows new garage
+Disabled door shadows in pawnshop
+Disabled door shadows hospital
+Disabled door shadows in 4th aps
+Disabled door shadows in Z
+Disabled door shadows in bakery
+Disabled door shadows SPT building
+Disabled door shadows in old bar
+Disabled door shadows suviner
+Disabled door shadows red room
+Disabled door shadows new bar
+Fixed areadoor height in new bar
+Disabled door shadows oil room
+Disabled door shadows mafia spawn
+Disabled door shadows hostile
+Disabled door shadows in pizza
+Disabled door shadows slums
+Disabled door shadows nexus prison
+Disabled door shadows the rest of nexus (only rotateing doors)
+Above bakery lighting fixed
+Above bakery handrail to no longer float
+Train was converted from brush to model
+
+--V_18_2--
+Removed blockview bushes in change
+Added credits to map
+Removed extra brush in new garage ramp
+Added areaportal above change by bridge [Always Open]
+Added areaportal above change front entrance [Always Open]
+Named door above change
+Added areaportal to door above change
+Removed 1 cubemap from room above change
+Added light back to mafia streets
+Rebuilt the window above bakery
+Removed shadow from garbage above bakery
+Fixed outside light by pawn shop
+Moved light away from wall in slums
+Moved light away from wall in slums dead end hallway
+Changed light bulb infront of new garage
+Grampa - Raised floor of nexus sniper room to be flush with door way (no more steps)
+Grampa - removed toggle light in tourture room
+Grampa - Fixed bottom of garage door textures
+Grampa - Removed magic tile in chief room
+Grampa - Fixed wood floor being sideways in both rooms in SPT building
+Grampa - reflections on old bar floor
+Grampa - Fixed theatre being too dark
+	Grampa - Fixed mayor light
+Grampa - Fixed pipes in bakery floating
+Grampa - Fixed pipes in bakery haveing collision
+Grampa - Fixed doors in nexus z clipping
+	Grampa - Fixed wrong texture on slums room
+Grampa - Fixed airvent being wrong color
+Flushed water drain pipe in civ plaza
+Cleaned up old bar
+Added nodraw to mayor room carpet
+fixed zclipping in mayor room
+Fixed 2 brushes z clipping in sniper room (after floor was leveled)
+Removed both trains from subway
+Added lip to sniper window (prevent z fighting)
+Corrected black fade out on sniper window
+Thinned balcany doornd centered door into frame (stops z fighting)
+Added lip to balcany door
+Thinned sniper door and centered door into frame (stops z fighting)
+Added lip to sniper door
+Thinned door to mayor bridge and centered door into frame (stops z fighting)
+Added lip to mayor bridge door
+Thinned door to mayor room and centered door into frame (stops z fighting)
+Added lip to mayor room
+Corrected no draw around door frames by mayor bridge
+Added lip to mayor closset room
+Added lip to nexus hele room
+Added lip to chief room
+Removed screen from hele room
+Added area portal to chief room
+Added area portal to heli room
+Added lip to nexus back door
+Added lip to nexus server room
+Added areaportal to nexus server room
+Added lip to nexus air lock doors
+Removed screens from nexus lobby (3)
+Added areaportal to nexus locker room
+Thinned nexus side airlock doors
+Added lip to nexus side airlock doors
+Added lip to nexus bottom lobby
+Disabled 14 shadows on nexus buttons (only if they dont have a pedistill)
+Added lip to back of tourcher room
+Corrected floating light pole
+Added lip to theater door
+Disabled dynamic shadows on all rotateing doors
+fixed 45th aps stair windows
+fixed decor windows by pizza
+Fixed shadow spot by plaza
+Fixed harse light by nexus armour room
+Above bakery handrail to no longer float
+Event room has been expanded, takes 16 seconds to run diag corner to corner.
+Black frame added around slum windows
+-Centered lights in new garage
+-Fixed double doors in jail
+
+--V_21-- 02/19/2019
+Changed mafia garage door lip to 5 from 50 (too low)
+Removed the dark trash in front of old garage
+Made skybox transition behind nexus black. The server removes skybox by default and it looks strange.
+Cleaned up theature (lots of nodraw added)
+Players can now walk up the last step in theature without jumping
+Moved light in theature to even it out with cealing
+Fixed visible nodraw in hospital stairs
+Rebuilt spiral stairs to slums
+Removed all cubemap overrides
+Removed cp barrier by civ spawn (going to sky)
+Fixed glitchy windows in change
+Fixed cubemaps by foto
+Fixed mayor room console brush
