@@ -1,0 +1,191 @@
+
+** Executing...
+** Command: "D:\Steam\steamapps\common\GarrysMod\bin\vbsp.exe"
+** Parameters: -game "D:\Steam\steamapps\common\GarrysMod\garrysmod" "c:\users\hunter\desktop\rp_c18_divrp_11_trooper_end"
+
+Valve Software - vbsp.exe (Feb 19 2018)
+8 threads
+materialPath: D:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\hunter\desktop\rp_c18_divrp_11_trooper_end.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "nature/blend_bnc_rockdebris" not found.
+Material not found!: NATURE/BLEND_BNC_ROCKDEBRIS
+Could not locate 'GameData' key in d:\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (1)
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1066 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing c:\users\hunter\desktop\rp_c18_divrp_11_trooper_end.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/grimmnight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/grimmnight*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "decals/memes/otis" not found.
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (3623218 bytes)
+Error! To use model "models/props_c17/tv_monitor01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_c17/tv_monitor01.mdl"!
+Error! prop_static using model "models/props_c17/oildrum001.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/oildrum001.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 23365 texinfos to 10700
+Reduced 2016 texdatas to 1343 (120600 bytes to 78734)
+Writing c:\users\hunter\desktop\rp_c18_divrp_11_trooper_end.bsp
+10 seconds elapsed
+  1.049162 -3.207047 0.000000
+  -1.049033 -3.207047 0.000000
+  -1.049033 3.206336 0.000000
+  1.015345 -3.207047 0.000000
+make_triangles:calc_triangle_representation: Cannot convert
+
+** Executing...
+** Command: "D:\Steam\steamapps\common\GarrysMod\bin\vvis.exe"
+** Parameters: -game "D:\Steam\steamapps\common\GarrysMod\garrysmod" "c:\users\hunter\desktop\rp_c18_divrp_11_trooper_end"
+
+Valve Software - vvis.exe (Feb 19 2018)
+8 threads
+reading c:\users\hunter\desktop\rp_c18_divrp_11_trooper_end.bsp
+reading c:\users\hunter\desktop\rp_c18_divrp_11_trooper_end.prt
+2285 portalclusters
+4667 numportals
+BasePortalVis:       0...1...2...3...4...5...6...7...8...9...10 (0)
+PortalFlow:          0...1...2...3...4...5...6...7...8...9...10 (3)
+Optimized: 2015 visible clusters (0.83%)
+Total clusters visible: 243102
+Average clusters visible: 106
+Building PAS...
+Average clusters audible: 400
+visdatasize:348144  compressed from 1316160
+writing c:\users\hunter\desktop\rp_c18_divrp_11_trooper_end.bsp
+4 seconds elapsed
+
+** Executing...
+** Command: "D:\Steam\steamapps\common\GarrysMod\bin\vrad.exe"
+** Parameters: -game "D:\Steam\steamapps\common\GarrysMod\garrysmod" "c:\users\hunter\desktop\rp_c18_divrp_11_trooper_end"
+
+Valve Software - vrad.exe SSE (Feb 19 2018)
+
+      Valve Radiosity Simulator     
+8 threads
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\hunter\desktop\rp_c18_divrp_11_trooper_end.bsp
+Setting up ray-trace acceleration structure... Done (3.99 seconds)
+23498 faces
+3 degenerate faces
+3102176 square feet [446713408.00 square inches]
+17 Displacements
+8275 Square Feet [1191740.38 Square Inches]
+23495 patches before subdivision
+261841 patches after subdivision
+1141 direct lights
+BuildFacelights:     0...1...2...3...4...5...6...7...8...9...10 (30)
+BuildVisLeafs:       0...1...2...3...4...5...6...7...8...9...10 (12)
+transfers 26234288, max 961
+transfer lists: 200.2 megs
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+	Bounce #1 added RGB(439653, 518389, 431482)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+	Bounce #2 added RGB(71121, 76909, 59750)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+	Bounce #3 added RGB(14325, 14203, 10503)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+	Bounce #4 added RGB(3358, 3041, 2116)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (1)
+	Bounce #5 added RGB(873, 721, 464)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+	Bounce #6 added RGB(246, 185, 108)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+	Bounce #7 added RGB(73, 50, 26)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+	Bounce #8 added RGB(22, 14, 7)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+	Bounce #9 added RGB(7, 4, 2)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+	Bounce #10 added RGB(2, 1, 0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+	Bounce #11 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0588 sec>
+FinalLightFace:      0...1...2...3...4...5...6...7...8...9...10 (16)
+FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+54 of 102 (52% of) surface lights went in leaf ambient cubes.
+ThreadComputeLeafAmbient: 0...1...2...3...4...5...6...7...8...9...10 (8)
+Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 189/1024         9072/49152    (18.5%) 
+brushes               7996/8192        95952/98304    (97.6%) VERY FULL!
+brushsides           56290/65536      450320/524288   (85.9%) VERY FULL!
+planes               24190/65536      483800/1310720  (36.9%) 
+vertexes             40469/65536      485628/786432   (61.8%) 
+nodes                 7566/65536      242112/2097152  (11.5%) 
+texinfos             10700/12288      770400/884736   (87.1%) VERY FULL!
+texdata               1343/2048        42976/65536    (65.6%) 
+dispinfos               17/0            2992/0        ( 0.0%) 
+disp_verts            4177/0           83540/0        ( 0.0%) 
+disp_tris             7360/0           14720/0        ( 0.0%) 
+disp_lmsamples       20894/0           20894/0        ( 0.0%) 
+faces                23498/65536     1315888/3670016  (35.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            18333/65536     1026648/3670016  (28.0%) 
+leaves                7756/65536      248192/2097152  (11.8%) 
+leaffaces            28070/65536       56140/131072   (42.8%) 
+leafbrushes          14344/65536       28688/131072   (21.9%) 
+areas                   35/256           280/2048     (13.7%) 
+surfedges           188596/512000     754384/2048000  (36.8%) 
+edges               120659/256000     482636/1024000  (47.1%) 
+LDR worldlights       1141/8192       100408/720896   (13.9%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           2828/32768       28280/327680   ( 8.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         52785/65536      105570/131072   (80.5%) VERY FULL!
+cubemapsamples         169/1024         2704/16384    (16.5%) 
+overlays                19/512          6688/180224   ( 3.7%) 
+LDR lightdata         [variable]    12503392/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      348144/16777216 ( 2.1%) 
+entdata               [variable]      527968/393216   (134.3%) VERY FULL!
+LDR ambient table     7756/65536       31024/262144   (11.8%) 
+HDR ambient table     7756/65536       31024/262144   (11.8%) 
+LDR leaf ambient     26238/65536      734664/1835008  (40.0%) 
+HDR leaf ambient      7756/65536      217168/1835008  (11.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/828      ( 0.1%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/104344   ( 0.0%) 
+pakfile               [variable]    14532220/0        ( 0.0%) 
+physics               [variable]     3623218/4194304  (86.4%) VERY FULL!
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 68499
+Writing c:\users\hunter\desktop\rp_c18_divrp_11_trooper_end.bsp
+1 minute, 11 seconds elapsed

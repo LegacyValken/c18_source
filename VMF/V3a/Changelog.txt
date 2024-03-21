@@ -1,0 +1,35 @@
+Created visgroup 'AI Nodes'
+Moved 1033 info_nodes into 'AI Nodes' visgroup
+Moved 111 info_node_air into 'AI Nodes' visgroup
+Moved 5 info_node_hint into 'AI Nodes' visgroup
+Moved 8 info_node_link into 'AI Nodes' visgroup
+Removed floating prop by old bar
+Func_detail 3 brushs in boiler room
+Func_detail 14 Combine gate by hobo spawn
+Fixed missing texture by mayor lookout
+Raised light pole by civ spawn to prevent it being out of map
+Removed 1 skybox brush by toxic
+3 brushes were not grid aligned by toxic FML, these were resized and textured
+Func_Detail toxic water brush
+Func_Detail 2 brushes by toxic
+Func_Detail Northern Petrol sign by toxic 
+Trimmed brushes and fixed skybox intrusion by toxic
+Removed clipping ledge by toxic
+Fixed upside down texture by toxic
+Func_Detail 1 brush front step of sniper room
+Func_Detail 10 brushs in 3 aps
+Func_Detail 2 brushs in fence room by aps
+Removed 2 brushs from red room, broken window and hump in roof
+Trimmed brush in aps floor
+Removed 7 brushes, old doorframe to park(removed)
+Removed step in slums
+Func_Detail 3 brushes of elevator frame by new station (top floor)
+Func_Detail 3 brushes of elevator frame by new station (bottom floor)
+Func_Detail 6 brushes in power room hallway
+Func_Detail 47 stiars in new station
+Func_Detail 2 god fucking awful brushes outside of mayor room corner
+Func_Detail 1 roof brush in mayor room
+Func_Detail 1 brush outside of mayor room (corner)
+Flattened roof of mayors building
+Flattened roof nexus in slums
+Fixed sidewalk picking wrong cubemap for reflections

@@ -1,0 +1,11 @@
+Errors Found:
+
+Why were ai_nodes added when no AI is used?
+Ladder by factory is hard to use
+Players can stand on player clip brush by civ spawn
+Players can stand on player clip brush by hospital
+Player can bypass player clip on combine gate by mafia spawn (get behind it) 2 ways
+Why are nexus doors opened by triggers now? They are not linked up correctly and I still dont understand their goal.
+Corner wall in mayor room is fucked, i don't know who did this or why but dear god. Check out top(x/y) view
+24 info_player_starts, divs script removes these 
+What is the deal with 'lookatthemagictile' it is a strange place for an easter egg can we move or remove it

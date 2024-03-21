@@ -1,0 +1,18 @@
+Improvements
+_____________
+2563  ? 2285 portalclusters
+5437  ? 4667 numportals
+   5  ? 4 vvis.exe (seconds)
+8010  ? 7996 brushes
+56405 ? 56290 brushsides
+24300 ? 24190 planes               
+41328 ? 40469 vertexes
+10720 ? 10700 texinfos             
+1358  ? 1343 texdata               
+24010 ? 23498 faces
+8287  ? 7756 leaves
+28859 ? 28070 leaffaces
+53526 ? 52785 waterindices          
+162.8 ? 134.3 entdata <--------------- Fuck yeah
+69955 ? 68499 Total triangle count
+75    ? 71 vrad.exe (seconds)
